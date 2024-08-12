@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,download.pytorch.org
+  - DOMAIN-SUFFIX,cloudflarestorage.com
